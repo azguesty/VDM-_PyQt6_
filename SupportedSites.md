@@ -1,6 +1,6 @@
 # Supported sites
 
-** This list is from yt-dlp, every site in here is supported by VDM too. Not all sites might work because they change.**
+**This list is from yt-dlp, every site in here is supported by VDM too. Not all sites might work because they change.**
 
  - **10play**: [*10play*](## "netrc machine")
  - **10play:season**
