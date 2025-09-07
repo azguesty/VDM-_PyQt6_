@@ -7,6 +7,7 @@ VDM, short for **Video Download Manager**, is a lightweight and easy-to-use appl
 - Avoid ads and unnecessary interruptions while downloading.
 
 Whether you want to save videos for personal use, offline study, or archiving, VDM makes the process fast and straightforward.
+
 **Note: You can also use VDM to download only the audio of the video you want.**
 #
 You can download the latest version of VDM from the [Releases page](https://github.com/guest1154255/VDM/releases).
