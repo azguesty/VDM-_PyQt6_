@@ -11,3 +11,15 @@ Whether you want to save videos for personal use, offline study, or archiving, V
 You can download the latest version of VDM from the [Releases page](https://github.com/guest1154255/VDM/releases).
 
 For the list of supported sites click [here](https://github.com/guest1154255/VDM/blob/main/SupportedSites.md).
+
+# VDM 2.0 [Released 09/07/2025 7:33 PM GMT+3]
+**Whats included:**
+- You can now search a video by it's name! You can use either search just youtube or any site.
+- Loading indicator on name search/format fetching
+- Download queue
+- Download history (that saves)
+- Console improvements
+- Console toggle in settings
+- Optimizations
+#
+**Time of build: 09/07/2025 7:20 PM GMT+3** 
