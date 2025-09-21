@@ -1,4 +1,4 @@
-# VDM (Video Download Manager) - PyQt6 version (Discontinued)
+# VDM - PyQt6 version (Discontinued)
 
 VDM, short for **Video Download Manager**, is a lightweight and easy-to-use application designed to help you download videos from various platforms quickly and efficiently. With VDM, you can:
 
